@@ -16,7 +16,8 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 - OSINT footprinting using external APIs, phone books & search engines
 - Check for reputation reports, social media, disposable numbers and more
 - Use the graphical user interface to run scans from the browser
-- Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2)
+- Programmatic usage with the [REST API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/web/docs/swagger.yaml) and [Go modules](https://pkg.go.pdev/github.com/sundowndev/phoneinfoga/v2)+16183140792
+- +16183140792
 
 ## Anti-features
 
